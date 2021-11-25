@@ -1,0 +1,8 @@
+.container {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: center;
+    width: 650px;
+    height: 180px;
+    border-style: groove;
+}
